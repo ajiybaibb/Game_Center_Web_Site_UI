@@ -1,7 +1,7 @@
 # Game Center Web Site UI
 GitHub : https://github.com/ajiybaibb/Game_Center_Web_Site_UI <br>
 Codepen : https://codepen.io/ajiybaibb/pen/QWQogeK<br>
-Twitter : https://twitter.com/ibb_ajiyba/status/1537459277958303745
+Twitter : https://twitter.com/ibb_ajiyba/status/1537459277958303745<br>
 wanna get to know me : http://ibb.ajiyba.com
 
 
