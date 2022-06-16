@@ -1,0 +1,261 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: auto;
+}
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: #000123;
+    color: white;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    overflow: overlay;
+    transition: all 250ms ease-out;
+}
+.screen1 {
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/siteverita-97e5c.appspot.com/o/Game%20Center%2Fscreen1.jpg?alt=media&token=2568cf26-42f3-4d54-a642-ffe1378c1fc5");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width:-webkit-fill-available;
+    height: 45pc;
+    margin: auto;
+    text-transform: capitalize;
+    transition: all 250ms ease-out;
+}
+h1.a1 {
+    padding-left: 19pc;
+    padding-top: 5pc;
+    font-size: 33px;
+    font-weight: 900;
+    transition: all 250ms ease-out;
+}
+h1.a2 {
+    font-size: 75px;
+    padding-left: 19pc;
+    font-weight: 100;
+    padding-bottom: 20px;
+    transition: all 250ms ease-out;
+}
+a {
+    text-decoration: none;
+}
+.butona1 {
+    background: #ff0f7b;
+    padding: 20px;
+    width: 10pc;
+    border-radius: 50px;
+    color: white;
+    margin-left: 19pc;
+    margin-top: 3pc;
+    font-size: 20px;
+    font-weight: 900;
+}
+.butonimg{
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    background: #fcb3d4;
+    border-radius: 38px;
+    margin-top: -13px;
+    margin-left: 8px;
+    padding: 12px;
+}
+.screen2{
+    text-align: center;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/siteverita-97e5c.appspot.com/o/Game%20Center%2Fscreen2.jpg?alt=media&token=4a850819-e72b-41c7-adab-ea479e71651d");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: -webkit-fill-available;
+    height: 45pc;
+    margin: auto;
+    text-transform: capitalize;
+    transition: all 250ms ease-out;
+}
+h1.a3 {
+    font-size: 90px;
+    padding-top: 9pc;
+    padding-right: 11pc;
+}
+h1.a4 {
+    color: #FF0F7B;
+    margin-top: -60px;
+    margin-left: 10pc;
+    font-size: 90px;
+}
+p.a1 {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 3pc;
+}
+.altb {
+    color: #ff0f7b;
+    font-size: 24px;
+    font-weight: 900;
+}
+.okimg{
+    width: 3pc;
+    transform: rotate(90deg);
+    margin-top: 25px;
+    float: inherit;
+}
+.screen3{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/siteverita-97e5c.appspot.com/o/Game%20Center%2Fscreen3.jpg?alt=media&token=ec2aa995-518e-4687-8447-dafd0992909a");
+    background-repeat: no-repeat;
+    width: 80pc;
+    height: 45pc;
+    margin: auto;
+    text-transform: capitalize;
+    background-position-x: 8pc;
+    background-position-y: center;
+    background-size: 24pc;
+    transition: all 250ms ease-out;
+}
+h1.a5 {
+    color: #ff0f7b;
+    padding-left: 45pc;
+    font-size: 60px;
+    padding-top: 7pc;
+    font-weight: 900;
+}
+p.a2 {
+    font-size: 30px;
+    padding-left: 45pc;
+    font-weight: 100;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a.a1 {
+    padding-left: 19pc;
+    color: #ff0f7b;
+    font-size: 30px;
+}
+a.a2 {
+    padding-left: 45pc;
+    color: #ff0f7b;
+    font-size: 30px;
+}
+.screen4{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/siteverita-97e5c.appspot.com/o/Game%20Center%2Fscreen4.jpg?alt=media&token=23951760-9794-4cf9-b8b3-c2869cdb83c8");
+    background-repeat: no-repeat;
+    width: 80pc;
+    height: 45pc;
+    margin: auto;
+    text-transform: capitalize;
+    background-position-x: 4pc;
+    background-position-y: center;
+    background-size: 35pc;
+    transition: all 250ms ease-out;
+}
+h1.a6 {
+    color: #ff0f7b;
+    padding-left: 45pc;
+    font-size: 60px;
+    padding-top: 7pc;
+    font-weight: 900;
+}
+p.a3 {
+    font-size: 30px;
+    padding-left: 45pc;
+    font-weight: 100;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a.a3 {
+    padding-left: 45pc;
+    color: #ff0f7b;
+    font-size: 30px;
+}
+.screen5{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/siteverita-97e5c.appspot.com/o/Game%20Center%2Fscreen5.jpg?alt=media&token=375eef8b-ea47-4e02-a1b6-353bc8e93a0a");
+    background-repeat: no-repeat;
+    width: 80pc;
+    height: 45pc;
+    margin: auto;
+    text-transform: capitalize;
+    background-position-x: 8pc;
+    background-position-y: center;
+    background-size: 24pc;
+    transition: all 250ms ease-out;
+}
+h1.a7 {
+    color: #ff0f7b;
+    padding-left: 45pc;
+    font-size: 60px;
+    padding-top: 11pc;
+    font-weight: 900;
+}
+p.a4 {
+    font-size: 30px;
+    padding-left: 45pc;
+    font-weight: 100;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a.a4 {
+    padding-left: 45pc;
+    color: #ff0f7b;
+    font-size: 30px;
+}
+.screen6{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/siteverita-97e5c.appspot.com/o/Game%20Center%2Fscreen6.jpg?alt=media&token=37776078-d763-4047-bb80-97bf8231a179");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: -webkit-fill-available;
+    height: 45pc;
+    margin: auto;
+    text-transform: capitalize;
+    transition: all 250ms ease-out;
+}
+h1.a8 {
+    color: #ff0f7b;
+    font-size: 80px;
+    font-weight: 900;
+    margin: 5pc;
+}
+p.a5 {
+    font-size: 30px;
+    font-weight: 100;
+    float: right;
+    margin-right: 7pc;
+    margin-top: -3pc;
+}
+p.a6 {
+    color: #ff0f7b;
+    font-size: 20px;
+    font-weight: 900;
+    float: right;
+    margin-top: 5pc;
+    margin-right: -23pc;
+}
+.aimg {
+    width: 20px;
+    height: 20px;
+}
+img {
+    float: right;
+    width: 50px;
+    margin-top: 8pc;
+}
+img.a1 {
+    margin-right: -23pc;
+}
+img.a2 {
+    width: 17px;
+    margin-right: -19pc;
+}
+img.a3 {
+    margin-right: -17pc;
+    width: 40px;
+}
+img.a4 {
+    margin-right: -14pc;
+    width: 37px;
+}
+.text {
+    width: 80pc;
+    
+}
